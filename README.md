@@ -7,14 +7,14 @@ XMRig for Android acts as a User Interface & Management application for XMRig. T
 ## About: XMRig
 XMRig is a high-performance, open-source, cross-platform RandomX, KawPow, CryptoNight, and AstroBWT unified CPU/GPU miner and RandomX benchmark. Available for Windows, Linux, macOS, and FreeBSD.
 
-https://github.com/xmrig/xmrig
+https://github.com/getcontext/xmrig
 
 ## About: XMRig for Android
 XMRig for Android provides a rich user interface for command-line XMRig miners. XMRig for Android makes complex miner configurations accessible for beginner users while also providing an advanced mode for pro users. XMRig for Android manages an unlimited number of separated configuration profiles, XMRig forks (original & MoneroOcean fork), benchmark results & a set of enabled/disabled algorithms.
 
 
 # Installation
-Google Play Store link: https://play.google.com/store/apps/details?id=com.xmrigforandroid
+Google Play Store link: 
 
 # Layout
 
@@ -26,4 +26,4 @@ Google Play Store link: https://play.google.com/store/apps/details?id=com.xmrigf
 * Splash Screen Artwork by [AOICARD](https://www.reddit.com/user/AOICARD/)
 
 ### Donations
-XMR: 46gPyHjLPPM8HaayVyvCDcF2A8sq8b476VrwKMukrKg21obm1AKEwzoN3u4ooc55FKdNeF5B8vcs4ixbeCyuydr2A2sdsQi
+XMR: 48m9WPm5dYyimiv2Nd6y3HESq67LiVZQWBJbM7D8zWrhLFwGnNBj3ohbPnirpFMAaoGHZzsDpmNuoQUPBWibtR78Fg6T5ha
